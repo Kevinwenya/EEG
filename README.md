@@ -45,7 +45,12 @@
 ![image](https://github.com/Kevinwenya/EEG/blob/master/Full_Checker_10X6_1.bmp)
 --------------------------------------------------------------------------------
 ![image](https://github.com/Kevinwenya/EEG/blob/master/Full_Checker_10X6_2.bmp)
-
+--------------------------------------------------------------------------------
+![image](https://github.com/Kevinwenya/EEG/blob/master/LC01_20131204_Data10_V1_50s_110s.JPG)
+--------------------------------------------------------------------------------
+![image](https://github.com/Kevinwenya/EEG/blob/master/V01_20131126_Data03_80s_110s_LFP_NoStim.JPG)
+--------------------------------------------------------------------------------
+![image](https://github.com/Kevinwenya/EEG/blob/master/V01_20131126_Data03_300s_330s_LFP_VisStim.JPG)
 ## 研究出发点
          1）由于对呼吸的观测是间接的，能否通过分析呼吸的机理，建立数学模型反映小鼠在睡眠状态下与呼吸相关联的脑电波。
          （猜测：呼吸过程是由脑干部分发出“呼”和“吸”的命令，由神经元集群同步产生动作电位，该电位完成呼吸过程。）
