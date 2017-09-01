@@ -73,6 +73,8 @@
    ---------------------------------------------------------------------
    ![image](https://github.com/Kevinwenya/EEG/blob/master/vision_activate.jpg)
    ----------------------------------------------------------------------
+   ![image](https://github.com/Kevinwenya/EEG/blob/master/nengliangpu.jpg)
+   ----------------------------------------------------------------------
    ![image](https://github.com/Kevinwenya/EEG/blob/master/activated.jpg)
 ## 整体解决方案及代码
          论文代码见：鼠视觉感受区电位信号(LFP)与视觉刺激之间的关系研究.pdf
