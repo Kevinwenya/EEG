@@ -66,5 +66,13 @@
          所建立的信号分离模型，从数据V01_20131126_Data03_300s_330s_LFP_VisStim_1khz.mat中分离出与Checkboard刺激
          相关的脑电波信号成份和可能与呼吸相关的脑电波信号成份？请验证所分离出来的刺激脑电波成份与视觉刺激之间的相关性，并说明
          该脑电波成份中是否包含图形形状因素。
+## 部分处理结果如下：
+   ![image](https://github.com/Kevinwenya/EEG/blob/master/xinhao1.jpg)
+   --------------------------------------------------------------------
+   ![image](https://github.com/Kevinwenya/EEG/blob/master/huxi_eeg.jpg)
+   ---------------------------------------------------------------------
+   ![image](https://github.com/Kevinwenya/EEG/blob/master/vision_activate.jpg)
+   ----------------------------------------------------------------------
+   ![image](https://github.com/Kevinwenya/EEG/blob/master/activated.jpg)
 ## 整体解决方案及代码
          论文代码见：鼠视觉感受区电位信号(LFP)与视觉刺激之间的关系研究.pdf
